@@ -163,7 +163,7 @@ const API_SITES = {
          adult: true         
      },
      huangcangaa: {
-         api: 'https://hszyckapi.vip/api.php/provide/vod',
+         api: 'https://hsckzy.xyz/api.php/provide/vod',
          name: 'hsaa仓库',       
      },
      yutu: {
