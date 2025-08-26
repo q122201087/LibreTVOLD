@@ -5,8 +5,7 @@ const CUSTOMER_SITES = {
     },
     huangcang: {
          api: 'https://hsckzy888.com/api.php/provide/vod',
-         name: 'HS仓库',
-         adult: true         
+         name: 'HS仓库',    
     },
 };
 
