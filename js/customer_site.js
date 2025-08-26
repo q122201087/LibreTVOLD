@@ -4,7 +4,7 @@ const CUSTOMER_SITES = {
         name: '七七资源',
     },
     huangcang: {
-         api: 'https://hsckzy888.com/api.php/provide/vod/',
+         api: 'https://hsckzy888.com/api.php/provide/vod',
          name: 'HS仓库',
          adult: true         
     },
