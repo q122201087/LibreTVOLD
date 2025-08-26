@@ -162,10 +162,6 @@ const API_SITES = {
          name: '黄色仓库',
          adult: true         
      },
-     huangcangaa: {
-         api: 'https://hsckzy.xyz/api.php/provide/vod',
-         name: 'hsaa仓库',       
-     },
      yutu: {
          api: 'https://yutuzy10.com/api.php/provide/vod/',
          name: '玉兔资源',
