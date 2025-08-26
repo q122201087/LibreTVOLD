@@ -7,6 +7,11 @@ const CUSTOMER_SITES = {
          api: 'https://hszyckapi.vip/api.php/provide/vod',
          name: 'HSbb仓库',    
     },
+     huangcangCC: {
+         api: 'https://hsckzy.vip/api.php/provide/vod',
+         name: 'HsCC仓库',
+         detail: 'https://hsckzy.vip'
+     },
 };
 
 // 调用全局方法合并
