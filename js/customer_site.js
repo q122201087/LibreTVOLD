@@ -3,7 +3,7 @@ const CUSTOMER_SITES = {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
     },
-    huangcang: {
+    huangcang22: {
          api: 'https://hsckzy888.com/api.php/provide/vod',
          name: 'HS仓库',    
     },
